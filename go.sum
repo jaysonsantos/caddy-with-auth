@@ -342,10 +342,14 @@ github.com/greenpau/caddy-auth-jwt v1.3.9 h1:/UnFmg8CIwKEjuVLCReRmJ2sog9Dig9rexg
 github.com/greenpau/caddy-auth-jwt v1.3.9/go.mod h1:1k1qsOpMRisRlgfkLFjPOL7bXZ4XDwFUkLxWrNaVJc8=
 github.com/greenpau/caddy-auth-jwt v1.3.10 h1:Tz9yhUy9FEccX5HMqhH4idfoesdhQHEMX9u0FM9/zzY=
 github.com/greenpau/caddy-auth-jwt v1.3.10/go.mod h1:1k1qsOpMRisRlgfkLFjPOL7bXZ4XDwFUkLxWrNaVJc8=
+github.com/greenpau/caddy-auth-jwt v1.3.12 h1:2JvHiBrH46ObcZyXBFiD1v8X/YTDjHY+dxIRSts0uqc=
+github.com/greenpau/caddy-auth-jwt v1.3.12/go.mod h1:1k1qsOpMRisRlgfkLFjPOL7bXZ4XDwFUkLxWrNaVJc8=
 github.com/greenpau/caddy-auth-portal v1.4.11 h1:hauiTfdRgpcFJ93qBZEHwVabwiwh9h0t9zixxuRE5wI=
 github.com/greenpau/caddy-auth-portal v1.4.11/go.mod h1:x5qo7SEMoo3YZkPornp8Jvpz0gYGLs8Z1WazpBYAxnw=
 github.com/greenpau/caddy-auth-portal v1.4.12 h1:EsF4E8RwxL75NX02Zeedqc8h53BkpoGjmNKx8FflYFA=
 github.com/greenpau/caddy-auth-portal v1.4.12/go.mod h1:XFkOVOX0hWDN+khIWJxjV8/U2TrL9fv3//wAYRGwV48=
+github.com/greenpau/caddy-auth-portal v1.4.14 h1:ygpK9XIYk4TTB8Mt7tym+RTsOkI5xtUg2BgQgkVFwIA=
+github.com/greenpau/caddy-auth-portal v1.4.14/go.mod h1:F5u+K2zBgKvm27nXQUfb/YyB6SSlueY40qEdTrv2+ms=
 github.com/greenpau/caddy-trace v1.1.7 h1:5DzCyWpW2D68kqcLCoPYKtrw0WN8GtqkOas+gDHzryI=
 github.com/greenpau/caddy-trace v1.1.7/go.mod h1:qoUivQ2RGtjvnWj300Jqjm+4Vbsa+aMIDivm91hHdcI=
 github.com/greenpau/go-identity v1.1.2 h1:no+FH6pzcbQrPDMXmXh+WvsAA3eZ6zhSBzDMstxQBj8=
