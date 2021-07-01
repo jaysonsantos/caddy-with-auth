@@ -1,7 +1,7 @@
-FROM golang:1.16 as builder
+FROM golang:1.16-alpine as builder
 WORKDIR /build
 COPY go.mod go.sum main.go ./
-RUN go build -ldflags="-extldflags=-static"
+RUN CGO_ENABLED=0 go build -ldflags="-extldflags=-static"
 
 FROM alpine
 COPY --from=builder /build/caddy-with-auth /usr/bin/caddy
