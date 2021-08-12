@@ -352,6 +352,8 @@ github.com/greenpau/caddy-auth-jwt v1.3.13 h1:9lWIfvzfAqRDZYDDTLRvmOu/ZknXYJSOzq
 github.com/greenpau/caddy-auth-jwt v1.3.13/go.mod h1:1k1qsOpMRisRlgfkLFjPOL7bXZ4XDwFUkLxWrNaVJc8=
 github.com/greenpau/caddy-auth-jwt v1.3.14 h1:Nw6Mu5LagNoxwsuyClt0YgiFb3C9wdLf7Jx/AcW+EqQ=
 github.com/greenpau/caddy-auth-jwt v1.3.14/go.mod h1:7pLqIgBTbeZyonrNiTt5HCgMNsiEruuDJhQl87eC3Fc=
+github.com/greenpau/caddy-auth-jwt v1.3.15 h1:ns03IeuvI13G1XLja0i8Po3BUswoS3ULvOCMG6/GwKk=
+github.com/greenpau/caddy-auth-jwt v1.3.15/go.mod h1:7pLqIgBTbeZyonrNiTt5HCgMNsiEruuDJhQl87eC3Fc=
 github.com/greenpau/caddy-auth-portal v1.4.11 h1:hauiTfdRgpcFJ93qBZEHwVabwiwh9h0t9zixxuRE5wI=
 github.com/greenpau/caddy-auth-portal v1.4.11/go.mod h1:x5qo7SEMoo3YZkPornp8Jvpz0gYGLs8Z1WazpBYAxnw=
 github.com/greenpau/caddy-auth-portal v1.4.12 h1:EsF4E8RwxL75NX02Zeedqc8h53BkpoGjmNKx8FflYFA=
